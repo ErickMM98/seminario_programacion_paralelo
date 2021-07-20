@@ -1,2 +1,3 @@
-# seminario_programacion_paralelo
-Códigos del seminario en programación en paralelo.
+# Seminario de programacion en paralelo
+
+Algunos códigos del seminario de programación en paralelo.
